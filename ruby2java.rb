@@ -2,6 +2,10 @@ require 'rubygems'
 require 'parse_tree'
 require 'pp'
 
+# This code is evil
+# Please avert your eyes right now
+# Dark side this leads to
+
 class Ruby2Java < SexpProcessor
   def initialize
     super
